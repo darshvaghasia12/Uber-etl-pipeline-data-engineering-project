@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "tranquil-well-415823",
+  "private_key_id": "afe60f17d6a93f51b73ef5f2a1a15bb2c4bcc2a0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCf6NOAtAWZ8eM9\nkSRzet3vFij7Gsaw0uua9I6FU0SgQ/GbAyHdabVXIYl78pZT2F5lvKLTbbUrTbTX\nVTZCQQP3eHpjIX5mPf6DZJ7mukXwRc/+cBn/69RLrb6wPLoOYHrA5b817MmvOfo7\nAtgDlKVvoNoffUlRjE2GQGMnLVuxQx6uOD4rFRRxu5IlDCYkBHQzlNomiEXcjqTe\nw6r/Rqes2AjmGZ/UbYIP8e8Eu+bRBuufNSKp/CvHgilBWkd6qSZ+E+CdU4nyJB2a\nbXmq6Fp0m0LHTGypyJ4xIjCCbntjwBRu2TjENS3QRb6pVliJJffeCL+PyAfxvfav\nRJZ0BhlXAgMBAAECggEADSkqk+W9FEd3lJVoGTNo8qJLRMD8zohj3BpgMUVO8s9e\nVVizpjc3nCOZeIcMEkiB55oLEjjURIUeHh7YQVzie7EBuaKD3NxU7YsP41A8LPAO\nx0a1c34WuEfLcVIxXR+M2s8BDR1SfnmlSGTahg9RpYqCiT1Ur6gX27XCGb/xucWT\nRzl36i/JGPcdBmPYrmyM5L6wd5icn5U4SCMYD0A2zqHg8awKh97rifQ6YtA8XZwy\no+rZhcNRHh+PvPZZDv5nQoKAzgZkaAWLw/XoM+Z6zUhsye7vCcuu6SyTRAFbapq/\nV6jBrHre+pgJ7dSPR19KgIjMnvptf2H6+VsjGBBJIQKBgQDS/V28mCEIw4H3O/b8\n2FWScZoMcDzP52EFudTz7qraqZ2mOP5iYhaM3H5El63BIabwxD8uKJKg0cOCq48X\nzJ1JWdfOXjtvxvopXk+S2Qbcr+tJ3H1/ZbyatIoT1ze4PDtl8QrJASIVqO+73fLT\ne2hZB+y3zCtA9n1jLQUMOLfMcQKBgQDCBdnQ6xD5crKiKGJLAlzLsWNJHlPXdEd0\n8+Lx2CT481y64bkvAN/1/D7mgsNnuxmI2Ks4PhcnlRIRHLu44EISgJjmvJ8cYTJf\n2EqfOlwK5K9XqaMmOTNrwf0oD4JjF+LUXZ9d9knhruye5LXQQWss9H/Q/BIeVHBf\nVQpLej3GRwKBgGIMzJrwN6nS8XrrqwQlpN7BXE2beydC55u5mHUj3NJxMIomwlEG\nNGSRszw9IMo30VTiXlodEMcbtDftcjolJJMJ5XhJ4mU3mtnOsjwUD1RPjJBunwOt\nS9C5RdGimopLs27UbaarmCNotsAfjNEq8Hsva5qejxtJcUu9iDL9yKyBAoGBAIoI\noZL5eWUOTboB4xQcRSqBM/KUCe/xgNjane2S6ZLXiHRIHHgtNiiJ4bIa+6vzt1Hd\nW8qymcSGUIkuGPuJSFhjduRI8yW8nJsFhOlNGqiBU6GZRUHvVf7mzxVOG2QmXTDa\nvoOZsaxGx36vlg3oTLh55eknPDipuByKor1Z5VMHAoGAM/gEjQGXvc39PjoVeAOo\nayeBQEjG9fkER2acF9JYVZBvY64EXudP1++rMkxy50OSoX+gakz8fENOksJR0MNo\nMf5lKIhQobnX5tIpURYrvjokqdJx82srlW34VSB1VF3HBw7XvmyaksjIGFy12OXV\nvEfjWh6WS2c8gkk2Raz/Tu8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "uber-data-engineering-project@tranquil-well-415823.iam.gserviceaccount.com",
+  "client_id": "102014341929940252636",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/uber-data-engineering-project%40tranquil-well-415823.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
